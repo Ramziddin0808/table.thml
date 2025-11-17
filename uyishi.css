@@ -1,0 +1,11 @@
+h1{
+    color: rgba(39, 255, 1, 0.477);
+    text-align: center;
+}
+body{
+    background-color: rgb(123, 11, 242);
+    color: white;
+}
+.sen{
+    padding: 20px;
+}
